@@ -1,7 +1,11 @@
 Annabelle Kanchirathingal
+
 akanch2@lsu.edu
+
 LSU ID: 897516847
+
 Dr. Jesse Allison
+
 CSC 2463 
 
 Below are links to my reproductions of the examples assigned to Graphics Assignment #1. This folder contains the code to all the reproductions.
@@ -20,11 +24,19 @@ To complete this assignment I used P5.js's references to aid in the creation of 
 so they could mimic the examples closely. I also utilized Visual Studio Code to host and write my code. 
 
 Folders:
+
 Example 1
+    
     lime green background with a circle and square.
+
 Example 2
+    
     triple venn diagram to display primary colors
+
 Example 3
+    
     Pacman & red ghost 
+
 Example 4
+    
     red star inside of green circle on a blue background
