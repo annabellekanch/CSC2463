@@ -7,6 +7,7 @@ CSC 2463
 Below are links to my reproductions of the examples assigned to Graphics Assignment #1. This folder contains the code to all the reproductions.
 
 Github Links:
+
 Example 1: https://annabellekanch.github.io/CSC2463/Graphics/Graphics%20Assignment%201/Example%201/index.html 
 
 Example 2: https://annabellekanch.github.io/CSC2463/Graphics/Graphics%20Assignment%201/Example%202/index.html 
