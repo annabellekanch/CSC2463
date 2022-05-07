@@ -167,19 +167,19 @@ function draw()
 
 function keyPressed()
 {
-   if(keyCode == 87)
+   if(keyCode == UP_ARROW)
    {
       s.dir(0, -1);
    }
-   else if(keyCode == 83)
+   else if(keyCode == DOWN_ARROW)
    {
       s.dir(0, 1);
    }
-   else if(keyCode == 68)
+   else if(keyCode == RIGHT_ARROW)
    {
       s.dir(1, 0);
    }
-   else if(keyCode == 65)
+   else if(keyCode == LEFT_ARROW)
    {
       s.dir(-1, 0);
    }
